@@ -1,1 +1,1 @@
-# abap_development_guidelines
+# 日本語版 汎用ABAP開発規約
